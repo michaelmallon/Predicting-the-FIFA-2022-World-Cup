@@ -5,3 +5,5 @@
 #### Michael Mallon
 
 Final Resulting Table:
+
+![World Cup Prediction Results](https://github.com/michaelmallon/[UCDPA_michaelmallon/blob/World Cup Predictions Results.png?raw=true)
