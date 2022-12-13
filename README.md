@@ -1,2 +1,7 @@
 # UCDPA_michaelmallon
-FYP
+# Certificate in Data Analytics for Finance
+## Final Project
+### Prediting and Analysing the World Cup 2022
+#### Michael Mallon
+
+Final Resulting Table:
