@@ -6,4 +6,4 @@
 
 Final Resulting Table:
 
-![World Cup Prediction Results](https://github.com/michaelmallon/[UCDPA_michaelmallon/[World Cup Predictions Results.png]?raw=true)
+![World Cup Prediction Results](https://github.com/michaelmallon/UCDPA_michaelmallon/blob/17f6123cf9dd42552578c779d9ff1fecb21ea025/World%20Cup%20Predictions%20Results.png?raw=true)
