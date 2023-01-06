@@ -1,4 +1,4 @@
-# UCDPA_michaelmallon
+# UCD
 # Certificate in Data Analytics for Finance
 ## Final Project
 ### Predicting and Analysing the World Cup 2022
